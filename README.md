@@ -25,4 +25,4 @@ This project has adopted the Stripe [Code of conduct](https://github.com/markdoc
 
 ## License
 
-This project uses the [MIT license](LICENSE).
+The project structure and page style uses the [MIT license](LICENSE), however all CSX Labs brand and content is intellectual property of CSX Labs, LLC.
