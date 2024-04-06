@@ -15,7 +15,7 @@ Contributions and feedback are welcomed and encouraged. Feel free to open PRs he
 
 3. Install the dependencies by running `npm install`
 
-4. Start the development server on [http://localhost:3000](http://localhost:3000) by running `npm run dev`
+4. Start the development server on [http://localhost:3000](http://localhost:3000) by running `yarn run dev`
 
 5. Try editing `pages/index.md`
 
