@@ -44,11 +44,12 @@
 
 :root,
 .light {
-  --white: #ffffff;
-  --black: #18181b;
-  --black-light: #58585f;
-  --black-medium: #2c2c30;
-  --gray-light: #f6f9fc;
+  --white: #f5f4ee;
+  --off-white: #f5f4ee;
+  --black: #020202;
+  --black-light: #333333;
+  --black-medium: #202124;
+  --gray-light: #e8e8e8;
   --gray-medium: #dce6e9;
 
   --yellow: #ffd848;
@@ -57,7 +58,7 @@
   --blue: #0073e6;
   --magenta: #dc34dc;
 
-  --theme: var(--yellow);
+  --theme: var(--white);
   --stripe: #0a2540;
 
   --light: var(--white);
