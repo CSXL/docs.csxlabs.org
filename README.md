@@ -1,7 +1,7 @@
-# Markdoc docs
+# CSX Labs Markdoc Docs
 
 [Markdoc](https://markdoc.dev) is a [Markdown](https://commonmark.org)-based syntax and toolchain for creating custom documentation sites and experiences.
-We designed Markdoc to power [Stripe's public docs](http://stripe.com/docs), our largest and most complex content site.
+Stripe designed Markdoc to power their [public docs](http://stripe.com/docs), their largest and most complex content site. We at CSX Labs admire the simplicity and rigor of Stripe's content docs, so we decided to use their markdoc framework for our organization's docs. We are not stripping this readme due to give proper credit to the people at Markdoc.
 
 ## Contributing
 
