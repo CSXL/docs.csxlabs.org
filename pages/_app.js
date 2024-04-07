@@ -133,6 +133,7 @@ export default function MyApp(props) {
           name="twitter:image"
           content="https://markdoc.dev/images/share.png"
         />
+        <link rel="icon" type="image/png" href="/favicon.png" />
       </Head>
       {/* https://webaim.org/techniques/skipnav/ */}
       <a href="#skip-nav" className="skip-nav">
