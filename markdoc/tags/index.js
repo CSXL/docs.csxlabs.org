@@ -2,6 +2,7 @@ import { tags } from '@markdoc/markdoc';
 
 import markdocExample from './markdoc-example.markdoc';
 import sideBySide from './side-by-side.markdoc';
+import solusBox from './solusbox.markdoc';
 
 export { comment } from '@markdoc/next.js/tags';
 export const partial = {
@@ -27,3 +28,4 @@ export { default as sandbox } from './sandbox.markdoc';
 export { default as section } from './section.markdoc';
 module.exports['side-by-side'] = sideBySide;
 export { default as youtube } from './youtube.markdoc';
+module.exports['solusbox'] = solusBox;

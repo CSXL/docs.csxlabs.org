@@ -14,15 +14,19 @@
     "@docsearch/react": "^3.1.0",
     "@markdoc/markdoc": "^0.2.0",
     "@markdoc/next.js": "^0.2.0",
+    "@react-three/drei": "^9.105.2",
+    "@react-three/fiber": "^8.16.1",
+    "@types/three": "^0.163.0",
     "codemirror": "^5.65.2",
     "copy-to-clipboard": "^3.3.1",
     "js-yaml": "^4.1.0",
     "next": "^12.2.5",
     "prismjs": "^1.27.0",
-    "react": "17.0.2",
+    "react": "^18.2.0",
     "react-codemirror2": "^7.2.1",
-    "react-dom": "17.0.2",
-    "sharp": "^0.32.6"
+    "react-dom": "^18.2.0",
+    "sharp": "^0.32.6",
+    "three": "^0.163.0"
   },
   "devDependencies": {
     "eslint": "8.11.0",
