@@ -17,9 +17,9 @@ description: From personal blogs to massive documentation sites, Markdoc is a co
 
 {% /item %}
 
-{% item %}
+{% item .black-hole .no-mobile %}
 
-{% solusbox /%}
+![black-hole](/images/black-hole.svg)
 
 {% /item %}
 
