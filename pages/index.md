@@ -9,9 +9,9 @@ description: From personal blogs to massive documentation sites, Markdoc is a co
 
 {% item %}
 
-# Redefining modern technology through domain-specific vertically-integrated solutions.
+# Redefining artificial intelligence through domain-specific vertically-integrated technology.
 
-> From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
+> We are building the next generation of lab-grade desktop computers for data collection, visualization, and analysis.
 
 [View docs](/docs/getting-started) {% .primary %}
 
