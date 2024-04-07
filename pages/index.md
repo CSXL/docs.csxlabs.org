@@ -1,21 +1,29 @@
 ---
-title: A powerful, flexible, Markdown-based authoring framework
+title: A moonshot research institution redefining modern technology.
 description: From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
 ---
 
 {% section .hero %}
 
-{% typewriter /%}
+{% side-by-side %}
+
+{% item %}
+
+# Redefining modern technology through domain-specific vertically-integrated solutions.
 
 > From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
 
 [View docs](/docs/getting-started) {% .primary %}
 
-{% /section %}
+{% /item %}
 
-{% section .try .no-mobile %}
+{% item className="black-hole no-mobile" %}
 
-{% sandbox height="630px" options={"scrollbarStyle": null} /%}
+![Black Hole](/images/black-hole.svg)
+
+{% /item %}
+
+{% /side-by-side %}
 
 {% /section %}
 
@@ -97,7 +105,7 @@ const html = Markdoc.renderers.html(content);
 
 {% /section %}
 
-{% section .by-stripe %}
+{% section .by-csxlabs %}
 
 {% side-by-side %}
 

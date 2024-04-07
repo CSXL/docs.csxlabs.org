@@ -21,17 +21,16 @@ import 'codemirror/lib/codemirror.css';
 
 import '../public/globals.css';
 
-const TITLE = 'Markdoc';
-const DESCRIPTION = 'A powerful, flexible, Markdown-based authoring framework';
+const TITLE = 'CSX Labs';
+const DESCRIPTION = 'A moonshot research institution redefining modern technology.';
 const MARKDOC = `
 
-
-  ███    ███  █████  ██████  ██   ██ ██████   ██████   ██████
-  ████  ████ ██   ██ ██   ██ ██  ██  ██   ██ ██    ██ ██
-  ██ ████ ██ ███████ ██████  █████   ██   ██ ██    ██ ██
-  ██  ██  ██ ██   ██ ██   ██ ██  ██  ██   ██ ██    ██ ██
-  ██      ██ ██   ██ ██   ██ ██   ██ ██████   ██████   ██████
-
+_____  _______   __  _               ____   _____ 
+/ ____|/ ____\ \ / / | |        /\   |  _ \ / ____|
+| |    | (___  \ V /  | |       /  \  | |_) | (___  
+| |     \___ \  > <   | |      / /\ \ |  _ < \___ \ 
+| |____ ____) |/ . \  | |____ / ____ \| |_) |____) |
+\_____|_____//_/ \_\ |______/_/    \_\____/|_____/ 
 
 
 `;
@@ -340,7 +339,7 @@ export default function MyApp(props) {
             padding-top: 0px;
           }
 
-          .page--landing .by-stripe {
+          .page--landing .by-csxlabs {
             padding-top: 110px;
           }
 
@@ -458,7 +457,11 @@ export default function MyApp(props) {
               padding-top: 4.5rem;
             }
 
-            .page--landing .by-stripe {
+            .page--landing .black-hole {
+              margin-top: -10rem;
+            }
+
+            .page--landing .by-csxlabs {
               padding-top: 5.3125rem;
             }
           }
@@ -492,7 +495,7 @@ export default function MyApp(props) {
               padding-top: 0;
             }
 
-            .page--landing .by-stripe {
+            .page--landing .by-csxlabs {
               padding-top: 3.75rem;
             }
 
